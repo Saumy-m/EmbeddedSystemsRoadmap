@@ -36,17 +36,17 @@
             }
           },
           {
-            "id": "f808b6dbcfb9b0e9",
+            "id": "6a1d941c66307dcd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C-03 Control Flow.md",
+                "file": "C-04 Functions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "C-03 Control Flow"
+              "title": "C-04 Functions"
             }
           }
         ],
@@ -218,12 +218,14 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "f808b6dbcfb9b0e9",
+  "active": "6a1d941c66307dcd",
   "lastOpenFiles": [
-    "C-02-Operators.md",
-    "C-03 Control Flow.md",
-    "C-01 Variables & Data Types.md",
     "C-02 Operators.md",
+    "C-04 Functions.md",
+    "C-04 Functions.md",
+    "C-03 Control Flow.md",
+    "C-02-Operators.md",
+    "C-01 Variables & Data Types.md",
     "Welcome.md"
   ]
 }
