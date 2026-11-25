@@ -1,10 +1,10 @@
 > [!info] ---
 > title : Operators
-> tags: [C, basics, operators] 
+> tags: [C, basics, operators]
 > Chapter 2
 
-Previous: [[C-01 Variables & Data Types]]
-
+| previous: [[C-01 Variables & Data Types]] | next: [[C-03 Control Flow]] |
+| ----------------------------------------- | --------------------------- |
 ## 1. What is an Operator
 
 - Symbol that works on values.
@@ -709,4 +709,6 @@ int main(void) {
 - Never modify a variable twice in one expression.
 - Only `&&` `||` `?:` `,` guarantee order.
 
-**Next:** [[C-03-Control-Flow]]
+| previous: [[C-01 Variables & Data Types]] | next: [[C-03 Control Flow]] |
+| ----------------------------------------- | --------------------------- |
+

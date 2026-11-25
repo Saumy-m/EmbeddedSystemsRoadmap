@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Control Flow.md",
+                "file": "C-03 Control Flow.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Control Flow"
+              "title": "C-03 Control Flow"
             }
           }
         ],
@@ -220,9 +220,10 @@
   },
   "active": "f808b6dbcfb9b0e9",
   "lastOpenFiles": [
-    "C-02 Operators.md",
-    "Control Flow.md",
+    "C-02-Operators.md",
+    "C-03 Control Flow.md",
     "C-01 Variables & Data Types.md",
+    "C-02 Operators.md",
     "Welcome.md"
   ]
 }

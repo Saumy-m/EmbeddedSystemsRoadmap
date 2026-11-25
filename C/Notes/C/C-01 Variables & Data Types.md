@@ -1,11 +1,16 @@
 > [!info]
 > Title: Variables & Data Types
-> Tags: C, basics, data-types
+> Tags: [C, basics, data-types]
 > Chapter 1
+
+| previous: [[]] | next: [[C-02 Operators]] |
+| -------------- | ------------------------ |
 ## 1. Variable
+
 - Named storage in memory.
 - Has a type, a name, a value, an address.
 - Type decides size and how bits are read.
+
 ```c
 #include <stdio.h>
 
@@ -19,6 +24,7 @@ int main(void) {
 ```
 
 ## 2. Declaration vs Definition vs Initialization
+
 - **Declaration** → tells compiler name + type.
 - **Definition** → allocates memory.
 - **Initialization** → gives first value.
@@ -44,6 +50,7 @@ int main(void) {
 ---
 
 ## 3. Naming Rules
+
 - Letters, digits, underscore.
 - Cannot start with digit.
 - Case sensitive.
@@ -102,6 +109,7 @@ int main(void) {
 ---
 
 ## 5. Signed vs Unsigned
+
 - `signed` → positive and negative. Default for `int`.
 - `unsigned` → only 0 and positive. Double the positive range.
 - 8-bit signed: -128 to 127.
@@ -595,4 +603,6 @@ More in later note: _Qualifiers_.
 - Casts are explicit. Promotions are silent.
 - Match `printf` specifier to type.
 
-**Next:** [[C-02-Operators]]
+| previous: [[]] | next: [[C-02 Operators]] |
+| -------------- | ------------------------ |
+
