@@ -1,6 +1,6 @@
 > [!info]
-> Title : Variables & Data Types
-> Tags : C, basics, data-types
+> Title: Variables & Data Types
+> Tags: C, basics, data-types
 > Chapter 1
 ## 1. Variable
 - Named storage in memory.
