@@ -1,4 +1,4 @@
-# Embedded Systems Documentation\
+# Embedded Systems Documentation
 
 ## Description:
 1. Every topic has seperate Code folder for coding examples and practice.
